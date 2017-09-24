@@ -2,7 +2,7 @@
 
 crop face by opencv 
 
-How to use ?
+How to use it ?
 
 compile main.cpp with opencv then put exe file to any you want.
 
