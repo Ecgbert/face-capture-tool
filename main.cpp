@@ -17,11 +17,11 @@ string extension;
 int main(int argc, const char *argv[])
 {
 	
-	//创建文件名列表文件，若存在则清空文件
+	
 	fstream file_list("name.txt", std::ios::out);
 	file_list.close();
 	//fstream file_list;
-	//写入文件名列表到file_list.txt  
+	
 	system("dir /a /b >> name.txt");
 
 	if (!face_cascade.load(face_cascade_name))
