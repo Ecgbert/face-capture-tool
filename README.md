@@ -1,4 +1,4 @@
-# Automatic-face-capture-tool
+# face-capture-tool
 
 crop face by opencv 
 
